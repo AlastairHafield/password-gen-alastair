@@ -15,6 +15,8 @@ from 8 - 128 charcacters in length.
 
 # Screenshot
 
+![READMESCREENSHOT](/passwordGen.jpg)
+
 # Author
 Alastair Hatfield
 

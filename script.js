@@ -9,7 +9,7 @@
 
 //character length prompt with numerical check and length check.
 var generateBtn = document.querySelector("#generate");
-
+//Random selection for
 function randomInt(min, max) {
  if (!max) {
   max = min
